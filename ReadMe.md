@@ -49,6 +49,11 @@ This opens a tab with three main areas:
 8. Use `Delete` to remove the selected slot.
 9. Click `Refresh` to rescan sources and slot lists (helpful after creating new saves during PIE or runtime).
 
+![Screenshot](images/Screenshot_open_Inspector.png)  
+
+
+![Screenshot](images/Screenshot_Inspector.png)
+
 Tip: If the slot list is empty, run your game once to create a save or use your existing save pipeline to generate one.
 
 ---
